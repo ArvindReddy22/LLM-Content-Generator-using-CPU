@@ -1,0 +1,10 @@
+streamlit==1.24.0
+langchain==0.0.267
+ctransformers==0.2.24
+pandas==2.0.3
+plotly==5.15.0
+SpeechRecognition==3.10.0
+sounddevice==0.4.6
+wavio==0.0.7
+numpy==1.24.3
+pathlib==1.0.1
